@@ -1,0 +1,48 @@
+    html
+    {
+        background: linear-gradient(#141e30, #243b55);
+        height:100%
+    }
+    table
+    {
+        margin-top:7%;
+        margin-left:20% ;
+        text-align: center;
+        font-size: larger;
+        border: 1px solid;
+        border-radius:15px;
+        background-color:white;
+        padding:1%;
+    }
+    td
+    {
+        padding: auto;
+        }
+    img:hover
+    {
+        width: 450;
+        height: 450;
+        transition: height 1s,width 1s ; 
+    }
+    img
+    {
+        transition: height 1s,width 1s ;
+    }
+    a:visited
+    {
+        text-decoration: none;
+        font: bold;
+        color: aqua;
+    }
+    a
+    {
+        text-decoration: none;
+        font: bold;
+        color: aqua;
+    }
+    .logout
+    {
+        text-align: right;
+        margin-right: 2%;
+        margin-top: 2%;
+    }
